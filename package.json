@@ -1,0 +1,19 @@
+{
+  "name": "meraki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "priyanka_kothmire",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
